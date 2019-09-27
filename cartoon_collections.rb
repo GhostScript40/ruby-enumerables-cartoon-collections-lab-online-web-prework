@@ -35,6 +35,6 @@ def find_the_cheese(dairy)
     dairy.include?("camambert")
     return camambert
   else
-    
-    
-end
+    return nil
+    end
+  end
